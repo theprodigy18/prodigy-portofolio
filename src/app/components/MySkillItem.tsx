@@ -1,5 +1,4 @@
 import React, { JSX } from 'react';
-import { CsharpOriginal } from 'devicons-react';  // Impor ikon dari Devicons
 
 // Tipe props untuk menerima elemen JSX sebagai Icon
 interface MySkillItemProps {
