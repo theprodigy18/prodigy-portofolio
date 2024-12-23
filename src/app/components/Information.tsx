@@ -14,7 +14,7 @@ function Information() {
                 </FadeInX>
                 <div className='hidden md:block'></div>
                 <FadeInX startInView={50} className='justify-self-end z-[1]'>
-                    <Image src={"/images/profile-picture.png"} alt="profile" width={600} height={0} className='width-full maskImage' />
+                    <Image src={"/images/profile.png"} alt="profile" width={600} height={0} className='width-full maskImage' />
                 </FadeInX>
             </MaxWidthWrapper>
         </div>
